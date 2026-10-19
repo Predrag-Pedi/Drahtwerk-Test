@@ -2,7 +2,9 @@
   "folders": [
     {
       "name": "AEW",
-      "files": []
+      "files": [
+        "EW/AEW/254101_Werkvorschriften_Spezielle_Bestimmungen_der_AEW.pdf"
+      ]
     },
     {
       "name": "CKW",
@@ -18,7 +20,9 @@
     },
     {
       "name": "EKZ",
-      "files": []
+      "files": [
+        "EW/EKZ/ekz-zusaetzliche-weisungen.pdf"
+      ]
     },
     {
       "name": "Energie Uster",
